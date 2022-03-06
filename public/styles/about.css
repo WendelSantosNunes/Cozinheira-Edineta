@@ -1,0 +1,55 @@
+.current::after {
+  content: '';
+  display: block;
+
+  height: 0.1rem;
+  width: 2.7rem;
+
+  margin: 0.2rem auto 0 auto;
+  background-color: #fcecdd;
+}
+
+h2 {
+  margin: 1.5rem 0;
+}
+
+.about-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 10px;
+}
+
+.about-container img {
+  border-radius: 15px;
+}
+
+.about-container div {
+  width: 500px;
+}
+
+.about p {
+  margin: 10px 0;
+
+  font-size: 25px;
+  text-align: justify;
+}
+
+@media (min-height: 1518px) {
+  footer {
+    position: absolute;
+  }
+}
+
+@media (min-height: 1579px) and (max-width: 320px) {
+  footer {
+    position: absolute;
+  }
+}
+
+/* Responsividade ########## */
+@media (max-width: 500px) {
+  .about-container div {
+    width: 90vw;
+  }
+}
