@@ -1,6 +1,6 @@
-# Cozinheira-de-mão-cheia
+# Cozinheira-Edineta
 
-![Página Principal](.github/Pagina-Principal.png)
+![Página Principal](./.github/Pagina-Principal.png)
 
 ---
 
@@ -27,4 +27,3 @@ Obs: É necessário ter uma conta no figma.
 Esse projeto foi um desenvolvido a partir do pedido da minha mãe, pois ela queria um site para mostrar um pouco do trabalho dela.
 
 E para realizar isso, eu utilizei o conhecimento adquirido durante o curso da [Rocketseat](https://app.rocketseat.com.br/discover).
-# Cozinheira-Edineta
