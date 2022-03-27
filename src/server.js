@@ -1,7 +1,7 @@
 const express = require('express')
 const server = express()
 const routes = require('./routes')
-
+const product = require("./api/product")
 server.set('view engine', 'ejs')
 
 server.use(routes)
