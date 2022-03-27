@@ -1,10 +1,11 @@
 {
-  "name": "teste",
+  "name": "Cozinheira",
   "version": "1.0.0",
   "description": "![Página Principal](https://github.com/WendelSantosNunes/Cozinheira-de-m-o-cheia/blob/main/assets/ImgReadme/Pagina-Principal.png)",
   "main": "src/server.js",
   "scripts": {
-    "dev": "nodemon ."
+    "dev": "nodemon .",
+    "start":"node src/server"
   },
   "keywords": [],
   "author": "",
